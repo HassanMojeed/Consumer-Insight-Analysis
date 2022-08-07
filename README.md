@@ -1,4 +1,4 @@
-# Consumer-Insight-Analysis
+# Consumer-Sales-Insight-Analysis
 
 Key guide to getting the best out of your BI analysis are as follows;
 
